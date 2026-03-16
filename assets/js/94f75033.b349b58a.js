@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_wiki=globalThis.webpackChunkmy_wiki||[]).push([[4152],{4786(a){a.exports=JSON.parse('{"metadata":{"permalink":"/taewoo-rnd-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
